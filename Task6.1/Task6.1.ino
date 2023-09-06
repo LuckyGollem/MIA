@@ -1,3 +1,5 @@
+//To answer the question the best filter is the low pass filter(LPF)
+//and the recommended cutoff frequency is 10Hz
 #include <Wire.h>
 int16_t GyroYaw;
 void setup() {
